@@ -7,6 +7,7 @@ longform:
   scenes: []
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
+title: What's Going On in Here ?
 ---
 # The True Purpose of a Digital Garden 🌱
 
